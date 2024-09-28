@@ -1,6 +1,6 @@
 # To-Do List Application
-  ### Video Demo:  <https://www.youtube.com/watch?v=Ey6fFEDn2Hw>
-## Description:
+#### Video Demo:  <https://www.youtube.com/watch?v=Ey6fFEDn2Hw>
+#### Description:
     
 This is a Python-based console application for managing a personal To-Do list. The application allows users to create, modify, and manage tasks with associated due dates, and it features various functionalities to help track task completion status.
 
