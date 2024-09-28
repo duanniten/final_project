@@ -9,7 +9,7 @@ import csv
 def main():
     todo_list= TodoList()
     todo_list.load()
-    todo_list.menu()
+    #todo_list.menu()
 
 
 class Todo:
